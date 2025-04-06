@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I'm currently building the future of error-free software at @Assert-Labs
+- 📖 Previously, I studied computer science, math, machine learning, and game theory at @PrincetonUniversity
+- 👀 Check out my (website)[https://devinplumb.com] or follow me on (Twitter/X)[https://x.com/devin_plumb]
 
 <!--
 **DevinPlumb/DevinPlumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
